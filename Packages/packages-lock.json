@@ -76,6 +76,15 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.postprocessing": {
+      "version": "3.2.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.services.core": {
       "version": "1.4.0",
       "depth": 1,
@@ -156,7 +165,7 @@
       "url": "https://packages.unity.com"
     },
     "mu.cluster.cluster-creator-kit": {
-      "version": "1.16.0",
+      "version": "2.3.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
